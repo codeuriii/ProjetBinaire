@@ -61,5 +61,3 @@ def decimal_vers_octets(nbr):
 
     return o
 
-
-print(decimal_vers_octets(26))
